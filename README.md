@@ -1,2 +1,0 @@
-# Website
-Website development sample
